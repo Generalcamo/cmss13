@@ -80,7 +80,7 @@
 	content += ncontent
 
 /datum/browser/proc/get_header()
-	head_content += "<link rel='stylesheet' type='text/css' href='[common_asset.get_url_mappings()[stylesheet]]'>"
+	//head_content += "<link rel='stylesheet' type='text/css' href='[common_asset.get_url_mappings()[stylesheet]]'>"
 	head_content += "<link rel='stylesheet' type='text/css' href='[other_asset.get_url_mappings()["loading.gif"]]'>"
 
 	if(user.window_scaling && user.window_scaling != 1 && !user.prefs.window_scale && width && height)

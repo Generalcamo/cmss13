@@ -13,7 +13,7 @@ em {font-style: normal; font-weight: bold;}
 
 .prefix { font-weight: bold;}
 
-.ooc { font-weight: bold;}
+.ooc {font-weight: bold;}
 .adminobserverooc {color: #0099cc; font-weight: bold;}
 .adminooc {color: #b82e00; font-weight: bold;}
 .xooc {color: #6C0094; font-weight: bold;}
@@ -33,7 +33,7 @@ em {font-style: normal; font-weight: bold;}
 .staff_ic {color: #000099;}
 .niche {color: #386aff; font-weight: bold;}
 
-.name { font-weight: bold;}
+.name {font-weight: bold;}
 
 .say {}
 .deadsay {color: #5c00e6;}
@@ -56,7 +56,7 @@ em {font-style: normal; font-weight: bold;}
 .hdcradio {color: #FEE6C24;}
 .pmcradio {color: #A13852;}
 
-.clfradio {color: #6f679c}
+.clfradio {color: #6f679c;}
 
 .alpharadio {color: #EA0000;}
 .bravoradio {color: #C68610;}
@@ -68,11 +68,11 @@ em {font-style: normal; font-weight: bold;}
 .pvstradio {color: #9b0612;}
 .ciaradio {color: #e6754c;}
 
-.medium { font-size: 2}
-.big { font-size: 2}
-.large { font-size: 3}
-.extra_large { font-size: 4}
-.huge { font-size: 5}
+.medium { font-size: 2;}
+.big { font-size: 2;}
+.large { font-size: 3;}
+.extra_large { font-size: 4;}
+.huge { font-size: 5;}
 
 .bold {font-weight: bold;}
 .underline {text-decoration: underline;}
@@ -123,13 +123,14 @@ h1.alert, h2.alert {color: #000000;}
 .objectivefail {color: #ff0000; font-weight: bold; font-size: 3;}
 
 .xeno {color: #900090; font-style: italic;}
+.xenotalk {color: #900090; font-style: italic;}
 .xenoleader {color: #730d73; font-style: italic; font-size: 3;}
 .xenoqueen {color: #730d73; font-style: italic; font-weight: bold; font-size: 3;}
 .psy_talk {color: #a70090; font-style: italic; font-weight: bold; font-size: 3;}
 
 .newscaster {color: #800000;}
 
-.role_header {color: #db0000 text-align: center; font-weight: bold; font-family: trebuchet-ms; font-size: 2;}
+.role_header {color: #db0000; text-align: center; font-weight: bold; font-family: trebuchet-ms; font-size: 2;}
 .role_body {color: #000099; text-align: center;}
 
 .round_header {color: #db0000; text-align: center; font-family: courier; font-weight: bold; font-size: 4;}
@@ -151,10 +152,11 @@ h1.alert, h2.alert {color: #000000;}
 .vox {color: #AA00AA;}
 .monkey {color: #966C47;}
 .rough {font-family: trebuchet-ms, cursive, sans-serif;}
-.german {color: #858F1E; font-family: 'Times New Roman', Times, serif}
+.german {color: #858F1E; font-family: 'Times New Roman', Times, serif;}
+.german {color: #858F1E; font-family: 'Times New Roman', Times, serif;}
 .spanish {color: #CF982B;}
-.japanese {color: #0047A0}
-.commando {color: #FE9B24; font-style: bold;}
+.japanese {color: #0047A0;}
+.commando {color: #FE9B24; font-weight: bold;}
 .say_quote {font-family: Georgia, Verdana, sans-serif;}
 
 .retro_translator {font-weight: bold;}

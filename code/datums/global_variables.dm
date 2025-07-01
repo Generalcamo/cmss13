@@ -136,7 +136,7 @@
 		var/rnd = rand(1,10000)
 		var/rname = "tmp\ref[I][rnd].png"
 		usr << browse_rsc(I, rname)
-		html += "[name] = (<span class='value'>[value]</span>) <img class=icon src=\"[rname]\">"
+		html += "[name] = (<span class='value'>[value]</span>) <img class=icon src=\"[rname]\"/>"
 		#else
 		html += "[name] = /icon (<span class='value'>[value]</span>)"
 		#endif
